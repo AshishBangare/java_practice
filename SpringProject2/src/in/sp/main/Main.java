@@ -12,6 +12,7 @@ public class Main {
 		
 		Student std = (Student) context.getBean("stdId");
 		std.display();
+		System.out.println("Hi");
 		
 	}
 
