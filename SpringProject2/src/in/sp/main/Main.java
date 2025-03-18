@@ -12,7 +12,11 @@ public class Main {
 		
 		Student std = (Student) context.getBean("stdId");
 		std.display();
+<<<<<<< HEAD
 		System.out.println("Hi");
+=======
+		askjfslkj
+>>>>>>> bd2cec8628107897f3856b62ceb6efa010c215bd
 		
 	}
 
