@@ -17,6 +17,7 @@ public class Main {
 =======
 		askjfslkj
 >>>>>>> bd2cec8628107897f3856b62ceb6efa010c215bd
+	System.out.println("Hello world");
 		
 	}
 
